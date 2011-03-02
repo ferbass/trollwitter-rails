@@ -5,9 +5,9 @@ div {
 }
 div header h1{
   background: url("../images/header_background.png");
-  height: 270px;
-  padding: 40px 0 0 20px;
+  height: 295px;
   font: normal normal 102px Lucida;
+  text-indent: -99000px;
 }
 
 div section{
