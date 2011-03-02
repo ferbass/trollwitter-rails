@@ -18,10 +18,14 @@
 
     <div>
       <header>
-        <h1> TrollWitter </h1>
+        <h1> #Trollwitter </h1>
       </header>
       <section id="content">
-
+        <ul id="tweets">
+          <% @results.each do |tweet| %>
+            <li> <a href="#">@<%= tweet.username %></a>: </li>
+          <% end %>
+        </ul>
       </section>
     </div>
   </body>
