@@ -1,0 +1,9 @@
+header, section{ display: block; }
+			div {
+				margin: 0 auto;
+				width: 900px;
+			}
+			div header {
+				background: url("images/header_background.png");
+				height: 299px 
+			}
