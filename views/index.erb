@@ -23,7 +23,14 @@
       <section id="content">
         <ul id="tweets">
           <% @results.each do |tweet| %>
-            <li> <a href="http://twitter.com/#!/<%= tweet['from_user']%>/status/<%= tweet['id'] %>">@<%= tweet['from_user'] %></a>: <%= tweet['text'] %> </li>
+            <li>
+              <div id="profile_image">
+                <img src="<%= tweet['profile_image_url'] %>">
+              </div>
+              <div id='tweet_content'>
+                <a href="http://twitter.com/#!/<%= tweet['from_user']%>/status/<%= tweet['id'] %>">@<%= tweet['from_user'] %></a>:<br /> <%= tweet['text'] %> 
+              </div>
+            </li>
           <% end %>
         </ul>
       </section>
