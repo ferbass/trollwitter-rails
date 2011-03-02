@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="Novo documento 1">
+   sodipodi:docname="trollwitter.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -32,6 +32,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3754"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3828"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,7 +55,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="300"
+     inkscape:cx="-240"
      inkscape:cy="508.57143"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -69,17 +83,58 @@
      id="layer1"
      transform="translate(0,-284.36218)">
     <path
-       transform="translate(0,284.36218)"
        style="fill:#4900ff;fill-opacity:0.55871887;stroke:none"
-       d="m 0,2.2857144 1025.7142,0 0,245.7142756 C 672.05611,222.92616 251.30162,54.713351 0,247.99999 L 0,2.2857144 z"
+       d="m -11.428571,286.64789 1025.714171,0 0,245.71428 c -353.65806,-25.07383 -774.41255,-193.28664 -1025.714171,0 l 0,-245.71428 z"
        id="rect2816"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/rodrigoy/projetos/trollwitter/public/header_background.png"
+       inkscape:export-xdpi="89.700012"
+       inkscape:export-ydpi="89.700012" />
     <image
        y="261.79074"
        x="708.28577"
        id="image3661"
        height="300"
        width="300"
-       xlink:href="file:///home/rodrigoy/Desktop/twitter-dead-bird.png" />
-  </g>
+       xlink:href="file:///home/rodrigoy/Desktop/twitter-dead-bird.png"
+       inkscape:export-filename="/home/rodrigoy/projetos/trollwitter/public/header_background.png"
+       inkscape:export-xdpi="89.700012"
+       inkscape:export-ydpi="89.700012" />
+    <image
+       y="332.57648"
+       x="183.71429"
+       id="image3756"
+       height="177.85715"
+       width="482.32446"
+       xlink:href="file:///home/rodrigoy/Desktop/twitter.png"
+       inkscape:export-filename="/home/rodrigoy/projetos/trollwitter/public/logo.png"
+       inkscape:export-xdpi="89.849998"
+       inkscape:export-ydpi="89.849998" />
+    <image
+       y="380.07648"
+       x="192.28574"
+       id="image3830"
+       height="85.714287"
+       width="85.714287"
+       xlink:href="file:///home/rodrigoy/Desktop/X.png"
+       inkscape:export-filename="/home/rodrigoy/projetos/trollwitter/public/logo.png"
+       inkscape:export-xdpi="89.849998"
+       inkscape:export-ydpi="89.849998" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3834"
+       style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:#f7eded;stroke-width:2.12517683;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Myriad Web;-inkscape-font-specification:Myriad Web Bold Italic"
+       transform="matrix(2.3527454,0,0,2.3527454,1983.8671,596.17624)"
+       inkscape:export-filename="/home/rodrigoy/projetos/trollwitter/public/logo.png"
+       inkscape:export-xdpi="89.849998"
+       inkscape:export-ydpi="89.849998"><flowRegion
+         id="flowRegion3836"><rect
+           id="rect3838"
+           width="711.42859"
+           height="237.14285"
+           x="-822.85712"
+           y="-137.71428"
+           style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;stroke:#f7eded;stroke-width:2.12517683;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Myriad Web;-inkscape-font-specification:Myriad Web Bold Italic" /></flowRegion><flowPara
+         id="flowPara3840"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke-width:2.12517683;stroke-miterlimit:4;stroke-dasharray:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">#troll</flowPara></flowRoot>  </g>
 </svg>
