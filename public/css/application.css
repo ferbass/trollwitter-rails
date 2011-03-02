@@ -11,18 +11,19 @@ div header h1{
 }
 
 div section{
-  margin: 0 20px;
+  margin: 0;
+  background: #eee;
 }
 
 div #tweets{
   height: 350px;
   overflow: auto;
-  padding: 0 20px;
+  padding: 10px 20px;
 }
 div #tweets li{
-  padding: 15px 0;
+  padding: 10px 0;
   border-top: 1px solid #222;
-  font: normal normal 22px/22px Lucida;
+  font: normal normal 15px/15px Lucida;
 }
 div #tweets li:first-child{
   padding-top: 0;
